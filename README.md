@@ -1,6 +1,6 @@
-# ♻️ Smart Recycling Dustbin – ML-Powered Waste Segregation & Reward System
+# ♻️ Waste-Segregating-IoT-Bin – ML-Powered Waste Segregation & Reward System
 🚀 **Transforming Waste Management with Smart Technology!**
-⚡ **Smart Recycling Dustbin** is an **ML & IoT-based system** that automatically classifies waste, assigns reward
+⚡ **Waste-Segregating-IoT-Bin** is an **ML & IoT-based system** that automatically classifies waste, assigns reward
 points, and promotes recycling. It is an innovative project designed to automate waste classification and incentivize
 responsible disposal. It integrates **IoT** and **machine learning** for a smarter, cleaner environment. With **realtime tracking**, **automated sorting**, and **eco-reward incentives**, this system is designed to **revolutionize waste
 disposal** and encourage sustainability!
